@@ -6,3 +6,5 @@ $pip install scrapy
 $mkdir scrapy
 $cd scrapy 
 $scrapy startproject bookscraper
+$cd bookscrapper
+$scrapy crawl bookscraper
